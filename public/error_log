@@ -1,0 +1,3 @@
+[28-Feb-2023 08:03:10 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/themrzam/public_html/vendor/composer/platform_check.php on line 24
+[27-Mar-2023 23:16:23 Asia/Dhaka] PHP Fatal error:  Cannot use Illuminate\Support\Facades\File as File because the name is already in use in /home/themrzam/public_html/app/Http/Controllers/Admin/SkinConcernController.php on line 9
+[15-Feb-2024 22:53:17 Asia/Dhaka] PHP Fatal error:  Cannot use App\Models\Product as Product because the name is already in use in /home/themrzam/public_html/app/Http/Controllers/Admin/ProductController.php on line 20

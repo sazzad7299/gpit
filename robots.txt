@@ -1,0 +1,16 @@
+User-agent: Googlebot
+allow: 
+User-agent: googlebot-image
+allow: 
+User-agent: googlebot-mobile
+allow: 
+User-agent: MSNBot
+allow: 
+User-agent: Slurp
+allow: 
+User-agent: yahoo-blogs/v3.9
+allow: 
+User-agent: *
+allow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.gpit.com.bd/sitemap.xml

@@ -1,0 +1,40 @@
+/* css for slider */
+.hero-section{
+    /* margin-top: 20px!important; */
+    padding: 0px 20px!important;
+}
+.hero-section h1, .hero-section h3{
+    color: white !important;
+}
+#hero .btn-get-started:hover {
+    color: #106eea;
+}
+.col-lg-8.b1{
+
+    display: block;
+    padding: 0px 5px;
+    width: 65%;
+    margin-right: 5px;
+    background-attachment: unset;
+    background-size: cover;
+}
+.col-lg-12.b2{
+    background-attachment: unset;
+    background-size: cover;
+    display: block;
+    padding: 40px 30px;
+}
+.col-lg-12.b3{
+    display: block;
+    padding: 40px 30px;
+    background-attachment: unset;
+    background-size: cover;
+}
+
+/* Media Query  */
+@media only screen and (max-width: 900px) {
+    .col-lg-8.b1{
+        width: 100% !important;
+        margin-right: 0 !important;
+    }
+  }
